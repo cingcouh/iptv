@@ -639,29 +639,23 @@
     {
       "name": "电视直播2",
       "type": 0,
+      "url": "https://live.zbds.top/tv/iptv4.txt",
+      "playerType": 2
+    },
+    {
+      "name": 电视直播3",
+      "type": 0,
       "url": "https://live.zhi35.com/iptv.m3u",
       "playerType": 2
     },
-    {
-      "name": "湖南移动通用",
-      "type": 0,
-      "url": "https://tv.711933.xyz/iptv2.m3u",
-      "playerType": 2
-    },
      {
-      "name": "广西联通",
+      "name": "电视直播6",
       "type": 0,
-      "url": "https://tv.711933.xyz/iptv3.m3u",
+      "url": "https://tv.711933.xyz/iptv1.m3u",
       "playerType": 2
     },
     {
-      "name": "湖南电信通用",
-      "type": 0,
-      "url": "https://tv.711933.xyz/iptv4.m3u",
-      "playerType": 2
-    },
-    {
-      "name": "广西移动专属",
+      "name": "广西移动",
       "type": 0,
       "url": "https://tv.711933.xyz/iptv.m3u",
       "playerType": 2,
