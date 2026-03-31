@@ -617,13 +617,13 @@
     {
       "name": "电视直播1",
       "type": 0,
-      "url": "https://gitee.com/xxy002/zhiboyuan/raw/master/dsy",
+      "url": "https://live.zbds.top/tv/iptv4.m3u",
       "playerType": 2
     },
     {
       "name": "电视直播2",
       "type": 0,
-      "url": "https://live.zbds.top/tv/iptv4.m3u",
+      "url": "https://gitee.com/xxy002/zhiboyuan/raw/master/dsy",
       "playerType": 2
     },
      {
